@@ -1,4 +1,4 @@
-# Crop-Yield-Prediction
+# Crop-Yield-Prediction using machine learning(ML)
 This repository contains my final year project done at Institute of Aeronautical Engineering (IARE)
 
 ### Problem Statement
